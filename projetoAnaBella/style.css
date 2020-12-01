@@ -1,0 +1,46 @@
+body{
+
+     background: #d2d2c1 url( 'imagens/fundo.png');/*no-repeat; poderia usar para ver a imagem e a cor de fundo*/
+     font:16px Arial,Helvetica,sans-serif; 
+    
+    
+}
+
+#principal{  
+
+    width: 900px;
+    height: 500px;
+    margin: auto;
+}
+
+#menu{
+    background: #c5c5b2;
+    padding: 10px;
+
+}
+
+a{
+    text-decoration: none;
+    color:#4b566a;  
+    font-weight: bold;
+    padding: 5px;
+}
+
+#conteudo{
+
+    background: #f7f7f0 ;
+    padding: 10px;
+}
+
+#rodape{
+    text-align: center;
+}
+
+h1{
+    color: #828271;
+    font-size:1.2em;
+
+}
+.img-campanha{
+    border: 10px solid #c3c3ae;    
+}
